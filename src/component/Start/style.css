@@ -1,0 +1,12 @@
+.start-container{
+    width: 100%;
+}
+.start-container .img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 5rem;
+}
+.start-container .img img{
+    width: 80%;
+}

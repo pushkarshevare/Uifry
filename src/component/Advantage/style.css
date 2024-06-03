@@ -1,0 +1,42 @@
+.advantage-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.advantage-content{
+    width: 100%;
+    margin-left: 5rem;
+}
+.advantage-content h3{
+    letter-spacing: 0.2rem;
+    color: #ff555f;
+}
+.advantage-content h1{
+    font-weight: bold;
+    font-size: 3.5rem;
+    margin-bottom: 1rem;
+} 
+.advantage-content h2{
+    display: flex;
+    align-items: center;
+    margin-bottom: 1rem;
+    font-weight: bolder;
+}
+.advantage-content h2 img{
+    margin-right: 10px;
+    width: 40px;
+    
+}
+.advantage-content p{
+    width: 90%;
+    line-height: 1.5rem;
+    font-size: large;
+    font-weight: bold;
+    color: rgb(163, 163, 163);
+}
+ .advantage-container .advantage-image{
+    width: 100%;
+}
+.advantage-container .advantage-image img{
+    width: 100%;
+} 

@@ -1,0 +1,46 @@
+.testomonial-container{
+    width: 100%;
+}
+.testomonial-header{
+    text-align: center;
+    width: 100%;
+}
+.testomonial-container h3{
+    letter-spacing: 0.2rem;
+}
+.testomonial-header h1{
+    /* width: 20%;  */
+}
+.testomonial-content{
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+}
+.testomonial-content .image{
+    width: 100%;
+}
+.testomonial-content .image img{
+    width: 90%;
+}
+.testomonial-content .right-content{
+    width: 70%;
+}
+.testomonial-content .right-content h2{
+    width: 90%;
+    font-size: 2rem;
+}
+.testomonial-content .right-content p{
+    width: 90%;
+    line-height: 1.5rem;
+    font-size: large;
+    font-weight: bold;
+    color: rgb(163, 163, 163);
+}
+.testomonial-content .right-content .pics img{
+    margin-top: 1rem;
+    width: 35%;
+}
+.testomonial-content .right-content h4{
+    margin-top: 1rem;
+    font-weight: bolder;
+}

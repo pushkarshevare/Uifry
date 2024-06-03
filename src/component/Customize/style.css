@@ -1,0 +1,28 @@
+.customize-container{
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+}
+
+ .customize-content{
+    width: 80%;
+}
+
+.customize-content h2{
+    display: flex;
+    align-items: center;
+    margin-bottom: 1rem;
+    font-weight: bolder;
+}
+.customize-content h2 img{
+    margin-right: 10px;
+    width: 40px;
+    
+}
+.customize-content p{
+    width: 80%;
+    line-height: 1.5rem;
+    font-size: large;
+    font-weight: bold;
+    color: rgb(163, 163, 163);
+} 

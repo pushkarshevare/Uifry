@@ -1,0 +1,60 @@
+.main-container{
+    display: flex;
+    justify-content: space-around;
+    padding: 0 8rem;
+    margin-top: 3rem;
+
+}
+.main-container .left-side{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    
+}
+.left-side h1{
+    width: 100%;
+    font-size: 3rem;
+    font-weight: 900;
+}
+
+
+.left-side button
+{
+    cursor: pointer;
+}
+.left-side .btns{
+    display: flex;
+}
+.btns .get{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+    color: white;
+}
+.left-side .watch{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+    margin-left: 10px;
+    background-color: #ffff;
+    border: none ;
+    color: black;
+    font-weight: bolder;
+}
+
+.main-container .left-side img{
+    width: 80%;
+    margin-top: -3rem;
+}
+.right-side{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.right-side img{
+    max-width: 80%;
+    height: auto;
+}

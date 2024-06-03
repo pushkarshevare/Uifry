@@ -1,0 +1,46 @@
+.feature-container{
+    display: flex;
+    justify-content: center;
+}
+.image{
+    width: 80%;
+}
+.image img{
+    width: 100%;
+ } 
+.feature-content{
+    margin-top: 9rem;
+ 
+}
+.feature-content h3{
+    letter-spacing: 0.2rem;
+    color: #ff555f;
+}
+.feature-content h1{
+    font-size: 3.5rem;
+    font-weight: 10000;
+    
+} 
+.feature-content ul{
+    list-style: none;
+    width: 80%;
+    margin-top: 1rem;
+}
+.feature-content h4{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    letter-spacing: 1px;
+}
+.feature-content h4 img{
+    width: 25px;
+}
+.feature-content li{
+    padding: 0.5rem;
+}
+
+.feature-content li p{
+    line-height: 1.5rem;
+    font-weight: bold;
+    color: rgb(163, 163, 163);;
+}

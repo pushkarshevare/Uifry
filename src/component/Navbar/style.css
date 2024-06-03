@@ -1,0 +1,36 @@
+.navbar{
+    display: flex; 
+    justify-content: space-around;
+    padding: 20px;
+}
+
+.left-side{
+    align-items: center;
+    display: flex;
+    gap: 2rem;
+}
+.left-side .logo{
+    display: flex;
+}
+.left-side .logo img{
+    width: 100%;
+    height: 30px;
+    margin-right: 10px;
+}
+.left-side ul{
+    display: flex;
+    list-style: none;
+    gap: 1rem;
+}
+.left-side ul span{
+    color: #ff555f;
+}
+.left-side li{
+    font-weight: 500;
+}
+button{
+    background-color: black;
+    color: white;
+    padding: 10px 25px;
+    border-radius: 5px;
+}
